@@ -1,8 +1,12 @@
 #### Hi! Nice to meet you👋
 I :heart: Data and WebApp development.
 
----
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITSUHIRO-KURIKI&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MITSUHIRO-KURIKI&theme=onedark&show_icons=ture" />
+</p>
 
+---
 ##### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,5 +45,4 @@ I :heart: Data and WebApp development.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![github](https://img.shields.io/badge/github-F63440.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006f86,100:007394&height=120&section=footer"/>
