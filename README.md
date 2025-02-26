@@ -40,9 +40,9 @@ I :heart: Data and WebApp development.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-###### Tools
-![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+######  Version & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-F63440.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006f86,100:007394&height=120&section=footer"/>
