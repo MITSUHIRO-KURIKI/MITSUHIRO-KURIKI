@@ -28,21 +28,21 @@ I :heart: Data and WebApp development.
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-###### Database
+###### Databases & Caching
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-###### Cloud Systems
+###### Cloud & Deployment
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=msazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-######  Version & CI/CD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+######  CI/CD
 ![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-F63440.svg?style=for-the-badge&logo=github&logoColor=white)
 
