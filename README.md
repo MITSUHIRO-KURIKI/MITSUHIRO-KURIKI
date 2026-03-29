@@ -2,8 +2,8 @@
 I :heart: Data and WebApp development.
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITSUHIRO-KURIKI&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MITSUHIRO-KURIKI&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MITSUHIRO-KURIKI&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.shion.dev/api?username=MITSUHIRO-KURIKI&theme=onedark&show_icons=ture" />
 </p>
 
 ---
